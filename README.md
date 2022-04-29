@@ -40,4 +40,23 @@ Estos días me encuentro trabajando en re-hacer con React el proyecto Social Net
 
 🌱 Uso mis tiempos libres en escuchar/disfrutar/tocar música, tejer, cocinar (y ser realmente buena en eso), o simplemente pasar tiempo con los seres que quiero (🐱🐶)
 
+---------------
+
+<p><strong>Tech Skills</strong></p>
+</div> 
+<!--
+<ul>
+<li><img src = "https://img.icons8.com/color/30/ffffff/javascript--v1.png">JavaScript</li>
+</ul>
+-->
+
+![Icono JavaScript](https://img.icons8.com/color/50/ffffff/javascript--v1.png "JavaScript")                 ![Icono NodeJS](https://img.icons8.com/windows/50/ffffff/nodejs.png "NodeJS")               ![Icono HTML5](https://img.icons8.com/color/50/ffffff/html-5--v1.png "HTML5")               ![Icono CSS](https://img.icons8.com/color/50/ffffff/css3.png "CSS")               ![Icono Firebase](https://img.icons8.com/color/50/ffffff/firebase.png "Firebase")               ![Icono Git](https://img.icons8.com/color/50/ffffff/git.png "Git")               ![Icono GitHub](https://img.icons8.com/ios-glyphs/50/ffffff/github.png "GitHub")               ![Icono Visual Studio Code](https://img.icons8.com/color/50/ffffff/visual-studio-code-2019.png "Visual Studio Code")               ![Icono Figma](https://img.icons8.com/color/50/ffffff/figma--v1.png "Figma")   ![Icono Trello](https://img.icons8.com/color/50/000000/trello.png "Trello")               ![Icono Notion](https://img.icons8.com/material-outlined/50/FFFFFF/notion--v1.png "Notion")               ![Icono Slack](https://img.icons8.com/color/50/000000/slack-new.png "Slack")
+
+
+<p><strong>Puedes encontrarme en:</strong></p> 
+
+<div style = "display: flex; flex-direction: row">
+<a href = "https://www.linkedin.com/in/mariacecilia-pino/"><img src = "https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"></a>
+<a href = "mailto:mepino@uc.cl"><img src = "https://img.icons8.com/ios-filled/30/ffffff/secured-letter--v1.png"></a>
+</div>
 
