@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm currently finishing the SCL Front-End Bootcamp at Laboratoria Chile, seeking to improve my coding skills and development abilities in creative web designs, with focus on problem solving. 
 On these days i'm working on re-doing the Social-Network proyect with React.
 
-🗻 I love living surrounded by mountains and going outdoors. That gave me perspective and the aim to always look at the big picture of things.
+🗻 I love living surrounded by mountains and going outdoors. That give me perspective and the aim to always look at the big picture of things.
 
 💥 Also in my past life I studied Law and almost became an Enviromental Lawyer.
 
